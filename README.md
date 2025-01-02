@@ -5,7 +5,7 @@
 
 
 ##Environment 
-[https://github.com/user-attachments/assets/58356795-87c5-4498-b508-34c3dec0dcfc](https://github.com/aryanjain123/Froggy/blob/main/env.mp4)
+https://github.com/user-attachments/assets/7567cf18-6b4c-48e6-8927-9dd8c4a71403
 
 Obstacles spawn at random and move from one corner to another 
 
