@@ -6,7 +6,7 @@
 
 ## Environment 
 
-https://github.com/user-attachments/assets/feb1dd32-f497-4219-9ae0-733f70100efe
+https://github.com/user-attachments/assets/a195f087-6130-409c-8276-a3b8d1d46da6
 
 Obstacles spawn at random and move from one corner to another 
 
@@ -14,4 +14,4 @@ Obstacles spawn at random and move from one corner to another
 The agent must overcome the obstacles to move from spawn position to the final destination.
 
 ## Result 
-[https://github.com/aryanjain123/Froggy/blob/main/result.mp4](https://github.com/user-attachments/assets/55e10201-8bf5-45fb-868a-c36607a3a5fe)
+https://github.com/user-attachments/assets/9ec4593a-17ea-46b7-87a1-cddb115ce667
