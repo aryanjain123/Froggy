@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\Froggy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\github\\Froggy\\Assets\\Scirpts\\PlayerAgent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scirpts\\PlayerAgent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\github\\Froggy\\Assets\\RevertDirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\RevertDirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\github\\Froggy\\Assets\\Scirpts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scirpts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\github\\Froggy\\Assets\\Scirpts\\ObstacleNew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scirpts\\ObstacleNew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RevertDirection.cs",
+              "DocumentMoniker": "D:\\github\\Froggy\\Assets\\RevertDirection.cs",
+              "RelativeDocumentMoniker": "Assets\\RevertDirection.cs",
+              "ToolTip": "D:\\github\\Froggy\\Assets\\RevertDirection.cs",
+              "RelativeToolTip": "Assets\\RevertDirection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:50:59.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerAgent.cs",
+              "DocumentMoniker": "D:\\github\\Froggy\\Assets\\Scirpts\\PlayerAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scirpts\\PlayerAgent.cs",
+              "ToolTip": "D:\\github\\Froggy\\Assets\\Scirpts\\PlayerAgent.cs",
+              "RelativeToolTip": "Assets\\Scirpts\\PlayerAgent.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:23:45.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\github\\Froggy\\Assets\\Scirpts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scirpts\\Player.cs",
+              "ToolTip": "D:\\github\\Froggy\\Assets\\Scirpts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scirpts\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:42:16.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObstacleNew.cs",
+              "DocumentMoniker": "D:\\github\\Froggy\\Assets\\Scirpts\\ObstacleNew.cs",
+              "RelativeDocumentMoniker": "Assets\\Scirpts\\ObstacleNew.cs",
+              "ToolTip": "D:\\github\\Froggy\\Assets\\Scirpts\\ObstacleNew.cs",
+              "RelativeToolTip": "Assets\\Scirpts\\ObstacleNew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:16:42.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
